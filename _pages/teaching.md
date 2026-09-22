@@ -20,8 +20,6 @@ author_profile: true
 • Academic Skills  
 </span>
 
-<br>
-
 ### Tutor & Coordinator | PPLE College, University of Amsterdam
 <span style="font-size:0.9em;">📅 2019–2022 &nbsp;|&nbsp; 🏛️ Amsterdam, The Netherlands</span>
 
@@ -31,16 +29,12 @@ author_profile: true
 • Introduction to Statistical Analysis  
 </span>
 
-<br>
-
 ### Research & Teaching Assistant | Vrije Universiteit Amsterdam
 <span style="font-size:0.9em;">📅 2020–2022 &nbsp;|&nbsp; 🏛️ Amsterdam, The Netherlands</span>
 
 <span style="font-size:0.9em;">
 • Seminar Attention
 </span>
-
-<br>
 
 ### Tutor | Laboratory of Experimental Psychology, University of Belgrade
 <span style="font-size:0.9em;">📅 2016–2019 &nbsp;|&nbsp; 🏛️ Belgrade, Serbia</span>
@@ -57,6 +51,14 @@ author_profile: true
 <span style="font-size:0.9em;">Supervision of Master's research projects in experimental psychology and cognitive neuroscience.</span>
 
 <br>
+
+### Bachelor's Thesis Supervision
+<span style="font-size:0.9em;">🏛️ University of Groningen &nbsp;|&nbsp; 📅 2025–2026</span>
+
+<span style="font-size:0.9em;">Supervision of Master's research projects in experimental psychology and cognitive neuroscience.</span>
+
+<br>
+
 
 ### Bachelor's Thesis Supervision
 <span style="font-size:0.9em;">🏛️ University of Groningen &nbsp;|&nbsp; 📅 2022–2026</span>
