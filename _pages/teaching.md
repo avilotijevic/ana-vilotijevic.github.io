@@ -36,9 +36,8 @@ author_profile: true
 • Seminar Attention
 </span>
 
-### Tutor | Laboratory of Experimental Psychology, University of Belgrade
+### Research Assistant | Laboratory of Experimental Psychology, University of Belgrade
 <span style="font-size:0.9em;">📅 2016–2019 &nbsp;|&nbsp; 🏛️ Belgrade, Serbia</span>
-
 
 <br>
 <br>
@@ -50,15 +49,10 @@ author_profile: true
 
 <span style="font-size:0.9em;">Supervision of Master's research projects in experimental psychology and cognitive neuroscience.</span>
 
-<br>
-
 ### Bachelor's Thesis Supervision
 <span style="font-size:0.9em;">🏛️ University of Groningen &nbsp;|&nbsp; 📅 2025–2026</span>
 
 <span style="font-size:0.9em;">Supervision of Master's research projects in experimental psychology and cognitive neuroscience.</span>
-
-<br>
-
 
 ### Bachelor's Thesis Supervision
 <span style="font-size:0.9em;">🏛️ University of Groningen &nbsp;|&nbsp; 📅 2022–2026</span>
