@@ -9,6 +9,12 @@ author_profile: true
 
 # Conference Contributions
 
+<div style="width: 100%; margin-top: 55px; margin-bottom: 20px;">
+  <img src="{{ '/images/header.png' | relative_url }}"
+       alt="Conference talks"
+       style="width: 100%; height: auto; display: block; border-radius: 2px;">
+</div>
+
 ## 2026
 
 <span style="font-size:1em;">**Attending to things that you cannot see** — Speaker</span>  
@@ -80,9 +86,3 @@ author_profile: true
 <span style="font-size:0.8em;">&ensp;📅 June 2022 &nbsp;|&nbsp; University of Groningen, Faculty of Arts &nbsp;|&nbsp; 🌍 Groningen, The Netherlands</span>
 
 
-
-<div style="width: 100%; margin-top: 55px; margin-bottom: 20px;">
-  <img src="{{ '/images/header.png' | relative_url }}"
-       alt="Conference talks"
-       style="width: 100%; height: auto; display: block; border-radius: 2px;">
-</div>
