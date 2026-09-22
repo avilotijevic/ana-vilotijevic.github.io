@@ -81,10 +81,8 @@ author_profile: true
 
 
 
-<br><br>
-
-<div style="width: 100%; margin-top: 50px; overflow: hidden;">
+<div style="width: 100%; margin-top: 50px;">
   <img src="/images/header.png"
-       alt=""
-       style="width: 100%; height: 220px; object-fit: cover; object-position: center; display: block;">
+       alt="Conference talks"
+       style="width: 100%; height: auto; display: block;">
 </div>
