@@ -81,8 +81,8 @@ author_profile: true
 
 
 
-<div style="width: 100%; margin-top: 50px;">
-  <img src="/images/header.png"
+<div style="width: 100%; margin-top: 55px; margin-bottom: 20px;">
+  <img src="{{ '/images/header.png' | relative_url }}"
        alt="Conference talks"
-       style="width: 100%; height: auto; display: block;">
+       style="width: 100%; height: auto; display: block; border-radius: 2px;">
 </div>
