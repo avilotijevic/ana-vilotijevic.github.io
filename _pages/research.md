@@ -94,7 +94,7 @@ author_profile: true
 
 <!-- Early Visual Processing -->
 <div class="research-section reverse">
-    <img src="{{ '/images/early-visual-processing.jpg' | relative_url }}" alt="Early visual processing">
+    <img src="{{ '/images/visual-processing.png' | relative_url }}" alt="Early visual processing">
     <div class="text">
         <h3>Early Visual Processing</h3>
         <p>A central question in my research is how early cognitive influences on vision emerge. Can processes such as attention alter sensory processing already at the level of the eye, or do these effects arise only later in the brain? I address this question using converging physiological measures, including pupillometry, electroretinography (ERG), and electroencephalography (EEG).</p>
