@@ -84,7 +84,7 @@ author_profile: true
 
 <!-- Attention -->
 <div class="research-section">
-    <img src="{{ '/images/attention.jpg' | relative_url }}" alt="Attention">
+    <img src="{{ '/images/attention.png' | relative_url }}" alt="Attention">
     <div class="text">
         <h3>Attention</h3>
         <p>I am interested in how attention changes the way visual information is processed, particularly when attention is directed covertly, without accompanying eye movements. My work examines how attentional selection affects physiological responses such as pupil size and neural activity, and how early in the visual processing hierarchy these effects emerge.</p>
@@ -104,7 +104,7 @@ author_profile: true
 
 <!-- Visual Perception -->
 <div class="research-section">
-    <img src="{{ '/images/visual-perception.jpg' | relative_url }}" alt="Visual perception">
+    <img src="{{ '/images/perception.png' | relative_url }}" alt="Visual perception">
     <div class="text">
         <h3>Visual Perception</h3>
         <p>I am interested in the relationship between physical visual input and our subjective perceptual experience. Using phenomena such as perceptual fading and afterimages, I investigate what happens when what we consciously see diverges from the information that remains physically present in the environment, and how attention interacts with these perceptual representations.</p>
