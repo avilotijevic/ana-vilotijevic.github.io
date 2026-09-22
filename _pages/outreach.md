@@ -214,7 +214,7 @@ Can your pupils reveal what you are paying attention to—even when you can no l
 
 <div class="outreach-card">
 
-<img src="{{ '/images/thesis.jpg' | relative_url }}" alt="The Eye's Mind PhD thesis">
+<img src="{{ '/images/cover-AVILOTIJEVIC.png' | relative_url }}" alt="The Eye's Mind PhD thesis">
 
 <div class="outreach-content">
 
