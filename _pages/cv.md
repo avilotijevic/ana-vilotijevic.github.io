@@ -37,7 +37,6 @@ Education & Academic Positions
 * **2015 – 2019: BSc in Psychology**
   * University of Belgrade, Serbia
 
-
 <br>
 
 Grants, Scholarships & Awards
@@ -49,37 +48,25 @@ Grants, Scholarships & Awards
 
 * **2019 – 2021 Vrije Universiteit Amsterdam Fellowship Programme (VUFP)** (€29,200)
 
-* **2019 – 2021 Foundation for Young Talents – Dositeja** (€10,000)
+* **2019 – 2021 Foundation for Young Talents – Dositeja** (€12,500)
 
 * **2019 – 2020 Holland Scholarship Programme (HSP)** (€5,000)
-
-* **2019 – 2020 Foundation for Young Talents – Dositeja** (€2,500)
 
 * **2017 – 2019 Studenica Foundation Scholarship** (€2,400)
 
 * **2016 – 2019 Serbian Ministry of Education, Science, and Technological Development Scholarship** (€2,400)
-
 
 <br>
 
 Research Skills
 ======
 
-* **Eye tracking and pupillometry**
-  * Eye-movement and pupil-size measurement
-  * Cognitive pupillometry
-  * Experimental design, preprocessing, and statistical analysis
-
-* **Electrophysiology**
-  * Electroencephalography (EEG)
-  * Electroretinography (ERG)
-  * Event-related electrophysiological analyses
-
+* **Eye tracking**
+* **Pupillometry**
+* **Electroencephalography (EEG)**
+* **Electroretinography (ERG)**
 * **Psychophysics and behavioural experimentation**
-  * Visual attention and perception paradigms
-  * Adaptive staircase procedures
-  * Experimental design and behavioural data collection
-
+* **Advanced statistical analysis**
 * **Programming and experimental software**
   * Python
   * R
@@ -87,41 +74,6 @@ Research Skills
   * PsychoPy
   * PyGaze
   * Git
-
-* **Statistical analysis**
-  * Linear mixed-effects modelling
-  * Repeated-measures analyses
-  * Psychophysical and behavioural data analysis
-
-
-<br>
-
-Teaching
-======
-
-* **2022 – 2026: Lecturer**
-  * University of Groningen, The Netherlands
-  * Master's Thesis Supervision
-  * Bachelor's Thesis Supervision
-  * Experimental Skills
-  * Data Collection and Analysis for Cognitive Neuroscience
-  * Programming for Psychologists
-  * Statistics II
-  * Academic Skills
-
-* **2019 – 2022: Tutor and Coordinator**
-  * PPLE College, University of Amsterdam
-  * Decision Making II
-  * Doing Research
-  * Introduction to Statistical Analysis
-
-* **2020 – 2022: Research and Teaching Assistant**
-  * Vrije Universiteit Amsterdam
-  * Seminar Attention
-
-* **2016 – 2019: Tutor**
-  * Laboratory of Experimental Psychology, University of Belgrade
-
 
 <br>
 
@@ -137,7 +89,6 @@ Academic Service
   * *Journal of Vision*
   * *Royal Society Open Science*
   * *International Journal of Psychophysiology*
-
 
 <br>
 
