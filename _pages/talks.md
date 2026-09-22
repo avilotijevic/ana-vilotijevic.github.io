@@ -78,3 +78,13 @@ author_profile: true
 
 <span style="font-size:1em;">**Pupillometry, eye-tracking and OpenSesame** — Workshop</span>  
 <span style="font-size:0.8em;">&ensp;📅 June 2022 &nbsp;|&nbsp; University of Groningen, Faculty of Arts &nbsp;|&nbsp; 🌍 Groningen, The Netherlands</span>
+
+
+
+<br><br>
+
+<div style="width: 100%; margin-top: 50px; overflow: hidden;">
+  <img src="/images/header.png"
+       alt=""
+       style="width: 100%; height: 220px; object-fit: cover; object-position: center; display: block;">
+</div>
