@@ -160,7 +160,7 @@ I enjoy communicating science beyond academia and making research accessible to 
 
 <div class="outreach-card">
 
-<img src="{{ '/images/podcast.jpg' | relative_url }}" alt="Open Science Bites podcast">
+<img src="{{ '/images/open-science-bites.jpg' | relative_url }}" alt="Open Science Bites podcast">
 
 <div class="outreach-content">
 
@@ -187,7 +187,7 @@ In this episode, I talk about my experience with open research and registered re
 
 <div class="outreach-card">
 
-<img src="{{ '/images/blog.jpg' | relative_url }}" alt="Seeing the Unseen blog">
+<img src="{{ '/images/seeing-the-unseen.jpeg' | relative_url }}" alt="Seeing the Unseen blog">
 
 <div class="outreach-content">
 
