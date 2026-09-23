@@ -22,7 +22,7 @@ repository               : "avilotijevic/ana-vilotijevic.github.io"
 author:
   avatar           : "profile.png"
   name             : "Ana Vilotijević"
-  bio              : "Postdoctoral Researcher in Cognitive Psychology"
+  bio              : "Postdoctoral Researcher in Cognitive Neuroscience"
   location         : "Utrecht, Netherlands"
   employer         : "Utrecht University"
   uri              : "https://www.uu.nl/medewerkers/AVilotijevic1"
@@ -40,7 +40,7 @@ author:
   # Social media
   twitter          :
   linkedin         : "anavilotijevi%C4%87/"
-  bluesky          : "https://bsky.app/profile/anavili.bsky.social"
+  bluesky          : "anavili.bsky.social"
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
