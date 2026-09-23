@@ -10,7 +10,7 @@ redirect_from:
 
 # **Welcome to my website!**
 
-<span style="font-size:0.9em;">I am a postdoctoral researcher in cognitive psychology at Utrecht University. My research focuses on the interaction between cognition and visual perception, with a particular interest in how cognitive processes such as attention and expectations shape the earliest stages of visual processing.</span>
+<span style="font-size:0.9em;">I am a postdoctoral researcher in cognitive neuroscience at Utrecht University. My research focuses on the interaction between cognition and visual perception, with a particular interest in how cognitive processes such as attention and expectations shape the earliest stages of visual processing.</span>
 
 <span style="font-size:0.9em;">I completed my PhD in Cognitive Neuroscience at the University of Groningen, where I investigated how attention shapes visual processing through changes in pupil size. My doctoral work examined the pupil not only as a physiological response to light, but also as a window into the interaction between cognition and sensory processing.</span>
 
